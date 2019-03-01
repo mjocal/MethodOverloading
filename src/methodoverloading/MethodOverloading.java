@@ -4,8 +4,10 @@ package methodoverloading;
 /**
  *
  * @author Majo Calderon
+ * 
  * Method overloading is using the same method with diff parameters
  * The method MUST return the same variable type (or be void)
+ * 
  */
 public class MethodOverloading {
 
